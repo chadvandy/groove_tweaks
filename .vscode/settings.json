@@ -1,0 +1,11 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#263205",
+        "titleBar.activeBackground": "#354607",
+        "titleBar.activeForeground": "#F6FCE5"
+    },
+    "Lua.workspace.library": [
+        "S:\\modding\\warhammer_3\\van_mct\\script",
+        "S:\\modding\\tw_autogen\\output\\wh3"
+    ]
+}
