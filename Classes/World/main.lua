@@ -1,0 +1,1 @@
+-- An abstracted class for the world. The World can handle World States and a lot of queries that would run through Campaign Manager and other systems. It also handles the creation of new objects, and the deletion of old ones.

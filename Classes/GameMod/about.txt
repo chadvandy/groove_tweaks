@@ -1,0 +1,1 @@
+The "GameMod" system, developed for easier deployment and management of Lua-based TW mods without needing to A) know a lot about Lua and B) copy-paste a bunch of monolithic scripts or work backwards from other convoluted mods.

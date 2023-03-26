@@ -1,0 +1,1 @@
+-- A position component, to handle the querying and setting of the position of an object. The component may be interacted with differently based on the object it's equipped on - ie., a Unit doesn't have independent locomotion, and its position will be based on its owning Character's position; unless it's in a garrison, then it's query only.

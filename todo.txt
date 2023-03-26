@@ -1,0 +1,8 @@
+TODO Fozzrik's Flying Fortress and other dynamic campaign markers
+TODO "game objects" and "game mod" systems
+TODO piqueno settlements through camps.
+TODO Lucky Nations
+TODO Forts & Watchtowers and other Anyndel mods
+TODO Diplo Options
+TODO Dynamic Settlement Skins(?)
+TODO Custom Lords

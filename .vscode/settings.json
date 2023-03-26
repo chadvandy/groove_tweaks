@@ -1,11 +1,14 @@
 {
     "workbench.colorCustomizations": {
-        "activityBar.background": "#263205",
-        "titleBar.activeBackground": "#354607",
-        "titleBar.activeForeground": "#F6FCE5"
+        "activityBar.background": "#06360B",
+        "titleBar.activeBackground": "#084B0F",
+        "titleBar.activeForeground": "#F1FDF2"
     },
-    "Lua.workspace.library": [
-        "S:\\modding\\warhammer_3\\van_mct\\script",
-        "S:\\modding\\tw_autogen\\output\\wh3"
+    "Lua.workspace.library" : [
+        "S:/modding/tw_autogen/output/wh3/"
+    ],
+    "Lua.diagnostics.disable": [
+        "lowercase-global",
+        "need-check-nil"
     ]
 }
