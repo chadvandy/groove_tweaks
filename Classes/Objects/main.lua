@@ -40,6 +40,7 @@ function InterfaceSuper:first_tick_callback()
 
 end
 
+--- TODO instead of that, save WHEN we get the game object, and then clear it next time we grab it if it's been too long!
 --- Called every game tick to clear unhealthy internals. 
 function InterfaceSuper:__clear()
     self._game_object = nil
